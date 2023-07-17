@@ -16,10 +16,10 @@ This is a simple Application Tracking System (ATS) built with Streamlit, a Pytho
    ```shell
    git clone https://github.com/Tarun0951/ats-app.git
 2.To install Packages:
-     pip install -r requirements.txt
+ ## pip install -r requirements.txt
 ## USAGE:
 Run the Streamlit app:
-streamlit run app.py
+## streamlit run app.py
 
 
 ##Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
